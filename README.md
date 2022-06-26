@@ -1,2 +1,2 @@
 # terraform_vpc_creation
-Creation of a custom vpc with subnets on AWS
+The creation of a custom vpc with subnets, internet gateway and route tables on AWS
